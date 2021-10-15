@@ -13,13 +13,14 @@ I use Visual Studio 2019 and Visual Studio Code to make shit.
 Gonna eventually start NDS and 3DS homebrew dev when I get good at C++
 
 ## Languages that I am decent at (In order of interest)
+- C/C++
 - C#
 - PHP
 - Python
 - HTML/CSS/Kinda JS
 
 ## Languages I wanna learn/relearn/improve on
-- C++
+- C/C++
 - PHP
 - Java
 - Lua
