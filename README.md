@@ -12,16 +12,9 @@ I use Visual Studio 2019 and Visual Studio Code to make stuff.
 
 Gonna eventually start NDS and 3DS homebrew dev when I get good at C++
 
-## Languages that I am decent at (In order of interest)
-- C/C++
-- C#
-- PHP
-- Python
-
-## Languages I wanna learn/relearn/improve on
-- C/C++
-- PHP
-- Java
-- Lua
-- Rust
-- HTML/CSS/JS
+| Languages I am good at | Languages I am okay at | Languages I don't know (But have interest in) |
+|:-|:-|:-|
+| C# | C/C++ | Rust |
+| Python | HTML/CSS/JS | x86 ASM |
+| Java | SQL |  |
+|  | 6502 ASM |  |
