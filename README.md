@@ -4,7 +4,7 @@ Hello Everyone, I am Roxie. I'd like to think that I am a pretty cowgirl.
 
 Pronouns: she/her
 
-Age: 17
+Age: 18
 
 Birthday: October 31st
 
