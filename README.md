@@ -1,20 +1,17 @@
 # Flux3on
 
-Hello Everyone, I am Roxie. I'd like to think that I am a pretty cowgirl.
+## About Me
+Name: Roxie. Age: 18. Pronouns: She/her
 
-Pronouns: she/her
+I am a cow. I do coding. I am queer. I am neurodivergent. I am depressed.
 
-Age: 18
+## What I am working on
+I am feeling really depressed and have a project I am working on. I am not going to open-source it until I am **absolutely sure** my codebase won't get laughed at.
 
-Birthday: October 31st
-
-I use Visual Studio 2019 and Visual Studio Code to make stuff.
-
-Gonna eventually start NDS and 3DS homebrew dev when I get good at C++
-
-| Languages I am good at | Languages I am okay at | Languages I don't know (But have interest in) |
-|:-|:-|:-|
-| C# | C/C++ | Rust |
-| Python | HTML/CSS/JS | x86 ASM |
-| Java | SQL |  |
-|  | 6502 ASM |  |
+## Languages I can use
+- C#
+- Python
+- HTML/CSS/JS
+- PHP
+- C++
+- Java
