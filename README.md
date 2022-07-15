@@ -1,7 +1,7 @@
 # Roxie "Flux3on" Wattz
 
 ## About Me
-Name: Roxie Wattz. Age: 18. Pronouns: She/her
+Name: Roxie Wattz. Age: 18. Pronouns: She/her, it/its
 
 ## What I am working on
 Finding a job.
